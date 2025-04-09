@@ -1,0 +1,2 @@
+externalId: wf_icapi_data_pipeline
+escription: This workflow orchestrates the create asset transformation, the TS and asset context. transformation and the TS calculation of OEE.
